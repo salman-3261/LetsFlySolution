@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIProject", "WebAPIProject\WebAPIProject.csproj", "{9677D9AE-27D5-4364-903D-8914CCB94C07}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "LetsFlyDBProject", "LetsFlyDBProject\LetsFlyDBProject.sqlproj", "{13C0765D-648C-4EAD-BDBF-2465A07C1F9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetsFly.Business", "LetsFly.Business\LetsFly.Business.csproj", "{EE743E38-2C6B-4986-A073-E51D329B917B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetsFly.BusinessObject", "LetsFly.BusinessObject\LetsFly.BusinessObject.csproj", "{F70EC7C9-1BB4-4542-A4A0-B459A6E5D13D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetsFly.DataObj", "LetsFly.DataObj\LetsFly.DataObj.csproj", "{F58D1D3B-203B-458E-AB8B-FB19E9B5F56C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetsFly.DataLayer", "LetsFly.DataLayer\LetsFly.DataLayer.csproj", "{1F7FE99A-B421-4F28-9CEC-CB340EBDEE62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9677D9AE-27D5-4364-903D-8914CCB94C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9677D9AE-27D5-4364-903D-8914CCB94C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9677D9AE-27D5-4364-903D-8914CCB94C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9677D9AE-27D5-4364-903D-8914CCB94C07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13C0765D-648C-4EAD-BDBF-2465A07C1F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C0765D-648C-4EAD-BDBF-2465A07C1F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C0765D-648C-4EAD-BDBF-2465A07C1F9C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{13C0765D-648C-4EAD-BDBF-2465A07C1F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C0765D-648C-4EAD-BDBF-2465A07C1F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13C0765D-648C-4EAD-BDBF-2465A07C1F9C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{EE743E38-2C6B-4986-A073-E51D329B917B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE743E38-2C6B-4986-A073-E51D329B917B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE743E38-2C6B-4986-A073-E51D329B917B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE743E38-2C6B-4986-A073-E51D329B917B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F70EC7C9-1BB4-4542-A4A0-B459A6E5D13D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F70EC7C9-1BB4-4542-A4A0-B459A6E5D13D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F70EC7C9-1BB4-4542-A4A0-B459A6E5D13D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F70EC7C9-1BB4-4542-A4A0-B459A6E5D13D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F58D1D3B-203B-458E-AB8B-FB19E9B5F56C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F58D1D3B-203B-458E-AB8B-FB19E9B5F56C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F58D1D3B-203B-458E-AB8B-FB19E9B5F56C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F58D1D3B-203B-458E-AB8B-FB19E9B5F56C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F7FE99A-B421-4F28-9CEC-CB340EBDEE62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F7FE99A-B421-4F28-9CEC-CB340EBDEE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F7FE99A-B421-4F28-9CEC-CB340EBDEE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F7FE99A-B421-4F28-9CEC-CB340EBDEE62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6132C99-336C-454D-9ADD-BBC2786263D9}
+	EndGlobalSection
+EndGlobal
